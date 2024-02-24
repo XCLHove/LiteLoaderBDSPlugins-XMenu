@@ -47,6 +47,6 @@
 
 ## 最新版下载链接
 
-[gitee](https://gitee.com/xclhove/LiteLoaderBDSPlugins-XMenu/releases/download/v1.2.0/GiveClock.js)
+[gitee](https://gitee.com/xclhove/LiteLoaderBDSPlugins-XMenu/releases/download/v1.0.0/xmenu.js)
 
-[github](https://github.com/xclhove/LiteLoaderBDSPlugins-XMenu/releases/latest/download/GiveClock.js)
+[github](https://github.com/xclhove/LiteLoaderBDSPlugins-XMenu/releases/latest/download/xmenu.js)
